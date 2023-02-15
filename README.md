@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PitBosch
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Javascript and expanding my knowledge of Python
+- 🌱 I’m currently expanding my knowledge of Python
 - 📫 How to reach me https://www.linkedin.com/in/pietro-boschini-464515a3/
